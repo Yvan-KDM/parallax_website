@@ -68,4 +68,7 @@ h2 {
   .img3 {
     background-attachment: scroll; }
   .text .border {
-    padding: 10px; } }
+    padding: 10px; }
+  .section {
+    text-align: justify;
+    padding: 20px 20px; } }
