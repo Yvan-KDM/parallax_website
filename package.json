@@ -1,0 +1,14 @@
+{
+  "name": "parallax_website",
+  "version": "1.0.0",
+  "description": "Basic parallax website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Yvan KDM",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.10.0"
+  }
+}
